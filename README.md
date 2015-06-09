@@ -20,7 +20,7 @@ Let's see the location of the main applications:
 
 > ### **nginx**
 * <b>basedir:</b>
- + /usr/local/nginx_conf:x/
+ + /usr/local/nginx/
 * <b>nginx_conf:</b>
  + /usr/local/nginx/conf/nginx.conf
  + /usr/local/nginx/conf/Configs/*.conf
